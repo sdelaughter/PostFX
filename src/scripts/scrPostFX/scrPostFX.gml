@@ -1,4 +1,4 @@
-#macro POSTFX_VERSION 0.1.0.
+#macro POSTFX_VERSION 0.1.0
 
 function PostFX_Quit() {
 	if !variable_global_exists("PostFX") return;

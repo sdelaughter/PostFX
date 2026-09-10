@@ -16,7 +16,7 @@ if array_length(shaders) < 1 {
 		if _e.active {
 			surface_set_target(surf[1-swap]);
 			shader_set(_e.shader);
-			script_execute_ext(_e.prep, _e.args);
+			method_call(_e.prep, _e.args);
 			draw_surface_ext(surf[swap], 0, 0, 1, 1, 0, c_white, 1);
 			shader_reset();
 			surface_reset_target();

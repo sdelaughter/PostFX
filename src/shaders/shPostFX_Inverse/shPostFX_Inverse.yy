@@ -1,10 +1,10 @@
 {
   "$GMShader":"",
-  "%Name":"shRed",
-  "name":"shRed",
+  "%Name":"shPostFX_Inverse",
+  "name":"shPostFX_Inverse",
   "parent":{
     "name":"Shaders",
-    "path":"folders/Shaders.yy",
+    "path":"folders/PostFX/Test/Shaders.yy",
   },
   "resourceType":"GMShader",
   "resourceVersion":"2.0",

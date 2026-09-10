@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"scrPostFX",
   "parent":{
-    "name":"Scripts",
-    "path":"folders/Scripts.yy",
+    "name":"PostFX",
+    "path":"folders/PostFX.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

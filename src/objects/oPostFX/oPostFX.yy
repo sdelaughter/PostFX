@@ -13,8 +13,8 @@
   "name":"oPostFX",
   "overriddenProperties":[],
   "parent":{
-    "name":"Utilities",
-    "path":"folders/Objects/Utilities.yy",
+    "name":"PostFX",
+    "path":"folders/PostFX.yy",
   },
   "parentObjectId":null,
   "persistent":true,

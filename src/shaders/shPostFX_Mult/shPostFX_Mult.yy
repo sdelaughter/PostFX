@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shPostFX_Mult",
+  "name":"shPostFX_Mult",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/PostFX/Test/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
